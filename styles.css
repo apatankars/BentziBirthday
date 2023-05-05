@@ -270,6 +270,12 @@ height: 16px;
       font-size: 16px;
       color: black; }
 
+  .enter {
+    position: absolute;
+    top: 2350px;
+    left: 375px;
+  }
+
   .wierd-shit {
     position: absolute;
     top: 2400px;
